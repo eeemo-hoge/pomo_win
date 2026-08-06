@@ -24,3 +24,10 @@ I grant permission to use any part or all of this program and to redistribute it
 I agree to the terms of this document.
 
 This text was translated by Deepl.
+
+20260805
+v1.1 windows10での作動を推定)をリリースしました。
+ソースコードは、紛失しました。v1.2をリリースする際に、書き直します。
+
+Released v1.1 of pomo_win. (expecting to run on windows 10)
+I lost my source code of C. I will reerite the code when I release the v1.2.
